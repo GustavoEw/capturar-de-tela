@@ -1,0 +1,4 @@
+import screanshot_tela
+
+
+screanshot_tela.capturar_tela()
